@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+transformers
+torch
+sentence-transformers
+scikit-learn
+pillow
