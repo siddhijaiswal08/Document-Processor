@@ -1,4 +1,4 @@
-# Document Processor# 
+# Document Processor
 
 This project is an advanced AI pipeline to split, classify, extract, and validate information from mixed-document insurance claim packets.
 
